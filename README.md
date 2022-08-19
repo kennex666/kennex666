@@ -74,7 +74,8 @@
 </div>  
   
 
-<br/>  
+<br/>
+You can send me a mail via: <a href="mailto:bao@1boxstudios.com">bao@1boxstudios.com</a>.
 
 
 ## Github Stats  
