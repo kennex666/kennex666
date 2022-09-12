@@ -1,4 +1,6 @@
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4sccoCUvKgarfGmvfAWoVV?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <div align="center">
+
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
@@ -89,9 +91,8 @@ You can send me a mail via: <a href="mailto:bao@1boxstudios.com">bao@1boxstudios
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-<div align="center"><img src="https://bao.1boxstudios.com/kennex666/recentlySportify"/></div>  
 <!--
+<div align="center"><a href=""><img src="https://bao.1boxstudios.com/kennex666/recenlyPlay.png"/></a></div>  
 https://spotify-github-profile.vercel.app/api/view?uid=cc94ufynemvhlsxms48ez399s&cover_image=true&theme=default
 -->
 <br/>  
