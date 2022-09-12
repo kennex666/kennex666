@@ -90,7 +90,7 @@ You can send me a mail via: <a href="mailto:bao@1boxstudios.com">bao@1boxstudios
 
 <br/>  
 
-<div align="center"><embed type="text/html" src="https://bao.1boxstudios.com/kennex666/recentlySportify.html"/></div>  
+<div align="center"><img src="https://bao.1boxstudios.com/kennex666/recentlySportify"/></div>  
 <!--
 https://spotify-github-profile.vercel.app/api/view?uid=cc94ufynemvhlsxms48ez399s&cover_image=true&theme=default
 -->
