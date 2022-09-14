@@ -16,7 +16,13 @@
 
 <br/>  
 
+## My Planing
+#### In 2022:
+- [ ] At least 20 problems have soloved on Codeforces.
+- [ ] Have more connections (about 2-3 developers).
+- [ ] Have knowledge how to use Node.js, TypeScript, Java.
 
+<br/>
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
