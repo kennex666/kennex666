@@ -23,6 +23,7 @@
 - [ ] Have knowledge how to use Node.js, TypeScript, Java.
 
 <br/>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
