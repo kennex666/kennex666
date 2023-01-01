@@ -5,18 +5,22 @@
 ### <div align="center">🥷 I'm Dương Thái Bảo (a.k.a Kennex666)</div>  
   
 
-- ⭐ Still working for my feature   
+- ⭐ Still working for my future   
   
 
 - 🌱 One day, I will change how the world works  
   
 
-- ⚡ "While (i < you) i++;"  
+- ⚡ "while (i < you) i++;"  
   
 
 <br/>  
 
 ## My Planing
+#### In 2023:
+- [ ] Have knowledge about front-end.
+- [ ] Have at least 1 project.
+- [ ] Change a new style for myself.
 #### In 2022:
 - [X] At least 20 problems have solved on Codeforces.
 - [X] Have more connections (about 2-3 developers).
