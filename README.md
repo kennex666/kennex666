@@ -18,9 +18,9 @@
 
 ## My Planing
 #### In 2022:
-- [ ] At least 20 problems have solved on Codeforces.
+- [X] At least 20 problems have solved on Codeforces.
 - [X] Have more connections (about 2-3 developers).
-- [ ] Have knowledge how to use Node.js, Java.
+- [X] Have knowledge how to use Java, Kotlin.
 
 <br/>
 
