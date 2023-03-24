@@ -18,9 +18,9 @@
 
 ## My Planing
 #### In 2023:
-- [ ] Have knowledge about front-end.
+- [X] Have knowledge about front-end.
 - [ ] Have at least 1 project.
-- [ ] Change a new style for myself.
+- [X] Change a new style for myself.
 #### In 2022:
 - [X] At least 20 problems have solved on Codeforces.
 - [X] Have more connections (about 2-3 developers).
