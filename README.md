@@ -4,8 +4,8 @@
 
 ### <div align="center">🥷 I'm Dương Thái Bảo (a.k.a John Kennex)</div>  
   
-<div align="center">``` while (i < you) i++; ```</div>
-  
+<div align="center">while (i < you) i++; </div>
+ 
 
 <br/>  
 
