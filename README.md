@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">🥷 I'm Dương Thái Bảo (a.k.a Kennex666)</div>  
+### <div align="center">🥷 I'm Dương Thái Bảo (a.k.a John Kennex)</div>  
   
 
 - ⭐ Still working for my future   
@@ -11,7 +11,7 @@
 - 🌱 One day, I will change how the world works  
   
 
-- ⚡ "while (i < you) i++;"  
+- while (i < you) i++;
   
 
 <br/>  
@@ -19,7 +19,7 @@
 ## My Planing
 #### In 2023:
 - [X] Have knowledge about front-end.
-- [ ] Have at least 1 project.
+- [X] Have at least 1 project.
 - [X] Change a new style for myself.
 #### In 2022:
 - [X] At least 20 problems have solved on Codeforces.
@@ -85,7 +85,7 @@
   
 
 <br/>
-You can send me a mail via: <a href="mailto:bao@1boxstudios.com">bao@1boxstudios.com</a>.
+You can send me a mail via: <a href="mailto:contact@dtbao.io.vn">contact@dtbao.io.vn</a>.
 
 
 ## Github Stats  
