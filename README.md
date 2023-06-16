@@ -85,7 +85,7 @@
   
 
 <br/>
-You can send me a mail via: <a href="mailto:contact@dtbao.io.vn">contact@dtbao.io.vn</a>.
+You can send me a mail via: <a href="mailto:contact@dtbao.io.vn">contact@dtbao.io.vn</a> or <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a>.
 
 
 ## Github Stats  
