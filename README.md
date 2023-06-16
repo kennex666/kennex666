@@ -4,14 +4,7 @@
 
 ### <div align="center">🥷 I'm Dương Thái Bảo (a.k.a John Kennex)</div>  
   
-
-- ⭐ Still working for my future   
-  
-
-- 🌱 One day, I will change how the world works  
-  
-
-- while (i < you) i++;
+``` while (i < you) i++; ```
   
 
 <br/>  
