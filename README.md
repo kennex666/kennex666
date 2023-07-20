@@ -5,7 +5,9 @@ My name is Bảo (a.k.a. John Kennex). I'm a software engineer, from Vietnam. I 
 ## Some more information 
 
 💬 Contact me via me@dtbao.io.vn
+
 🍀 Always be grateful
+
 💪 Strong aim to build a support community
 
 <div align="left">
