@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-My name is Bảo (a.k.a. John Kennex). I'm a software engineer, from Vietnam. I love sharing my knowledge and making meaningful contributions. My main focus is Android development, and I am constantly learning new things. In my opinion, loyalty, honesty, discipline, and being grateful are essential values.
+My name is Bảo (a.k.a. John Kennex). 
+
+I'm a software engineer, from Vietnam. I love sharing my knowledge and making meaningful contributions. My main focus is Android development, and I am constantly learning new things. In my opinion, loyalty, honesty, discipline, and being grateful are essential values.
 
 ## Some more information 
 
