@@ -30,18 +30,12 @@ My name is Bảo (a.k.a. John Kennex). I'm a software engineer, from Vietnam. I 
 
 <br/> 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Kennex666&&style=flat-square" align="center" />
-</div>  
-  
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kennex666&&style=flat-square" align="center" /> 
+  <a href="https://paypal.me/Kennex666" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center" />
+  </a>
+</div>  
 <br/>  
 
-<div align="center">
-            <a href="https://paypal.me/Kennex666" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-<br />
