@@ -28,7 +28,7 @@ My name is Bảo (a.k.a. John Kennex). I'm a software engineer, from Vietnam. I 
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kennex666&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Kennex666&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
 
