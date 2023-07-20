@@ -2,10 +2,9 @@
 </div>  
   
 
-### <div align="center">🥷 My name is Bảo (a.k.a John Kennex)</div>  
-  
-<div align="center">while (i < you) i++;</div>
- 
+### Hello there
+
+My name is Bảo (a.k.a. John Kennex). I'm a software engineer, from Vietnam. I love sharing my knowledge and making meaningful contributions. My main focus is Android development, and I am constantly learning new things. In my opinion, loyalty, honesty, discipline, and being grateful are essential values.
 
 ## Connect with me  
 <div align="center">
@@ -24,13 +23,14 @@
 <a href="https://www.youtube.com/Kennex666" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>
-You can send me a mail via: <a href="mailto:contact@dtbao.io.vn">contact@dtbao.io.vn</a> or <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a>.
-
+</div>
 <br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kennex666&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Kennex666&&style=flat-square" align="center" />
@@ -38,11 +38,6 @@ You can send me a mail via: <a href="mailto:contact@dtbao.io.vn">contact@dtbao.i
   
 
 <br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kennex666&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/> 
 
 <div align="center">
             <a href="https://paypal.me/Kennex666" target="_blank" style="display: inline-block;">
