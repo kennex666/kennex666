@@ -1,13 +1,14 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### Hello there
+### Hello there 👋
 
 My name is Bảo (a.k.a. John Kennex). I'm a software engineer, from Vietnam. I love sharing my knowledge and making meaningful contributions. My main focus is Android development, and I am constantly learning new things. In my opinion, loyalty, honesty, discipline, and being grateful are essential values.
 
-## Connect with me  
-<div align="center">
+## Some more information 
+
+💬 Contact me via me@dtbao.io.vn
+🍀 Always be grateful
+💪 Strong aim to build a support community
+
+<div align="left">
 <a href="https://github.com/Kennex666" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
