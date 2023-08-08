@@ -27,7 +27,7 @@ My name is Báº£o (a.k.a. Duong Kennex). I'm a software engineer, from Vietnam ðŸ
 <br/>  
 
 
-## Github Stats  
+## GitHub Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Kennex666&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
