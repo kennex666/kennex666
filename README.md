@@ -8,7 +8,7 @@ My name is Bảo (a.k.a. Duong Kennex). I'm a software engineer, from Vietnam �
 
 🍀 Always be grateful
 
-💪 Strong aim to build a support community
+My profile on Google Developers: <a href="https://g.dev/Kennex666">Visit me</a>
 
 <div align="left">
 <a href="https://twitter.com/Kennex666" target="_blank">
