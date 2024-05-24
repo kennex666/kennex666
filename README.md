@@ -1,6 +1,10 @@
 ## Hello there 👋
 
-My name is Bảo (a.k.a. Duong Kennex). I'm a software engineer, from Vietnam 🇻🇳. I love sharing my knowledge and making meaningful contributions. My main focus is Android development (Kotlin and Java Languages), and I am constantly learning new things. In my opinion, loyalty, honesty, discipline, and being grateful are essential values.
+My name is Bảo (a.k.a. Duong Kennex). 
+
+I'm a Software Engineer, from Vietnam 🇻🇳. I love sharing my knowledge and making meaningful contributions. My main focus is Android development, and I am constantly learning new things. 
+
+In my opinion, loyalty, honesty, discipline, and being grateful are essential values.
 
 ## Some more information 
 
@@ -32,7 +36,7 @@ My profile on Google Developers: <a href="https://g.dev/Kennex666">Visit me</a>
 
 <br/> 
 
-Recently updated at 1:37 A.M. on October 02, 2023
+Recently updated at 06:40 P.M. on May 24, 2023
 
 
 <div align="left">
