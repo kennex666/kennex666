@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Bảo (a.k.a. Duong Kennex). 
+My name is Bao Duong (a.k.a. Kennex). 
 
 I'm a Software Engineer, from Vietnam 🇻🇳. I love sharing my knowledge and making meaningful contributions. My main focus is Android development, and I am constantly learning new things. 
 
