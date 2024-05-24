@@ -10,7 +10,7 @@ In my opinion, loyalty, honesty, discipline, and being grateful are essential va
 
 💬 Contact me via me@dtbao.io.vn
 
-🍀 Always be grateful
+🍀 "Luck is not born, it is created from small things." - Kennex
 
 My profile on Google Developers: <a href="https://g.dev/Kennex666">Visit me</a>
 
