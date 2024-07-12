@@ -34,17 +34,17 @@ My profile on Google Developers: <a href="https://g.dev/Kennex666">Visit me</a>
 
 <br/> 
 
-## My Quotes
-
-🍀 "Luck is not born, it is created from small things." - Kennex
-
-🙌 "Loyalty, honesty, discipline, and being grateful are essential values." - Kennex
-
-🥳 "Not going to be the best thing ever, just be myself" - Kennex
-
-📌 "You don't need to prove anything to anyone. When you are good enough, people will know." - Kennex
+## My Favorite Quotes
 
 ♟️ "Move in silence, only speak when it's time to say checkmate." - Unknown
+
+🍀 "Luck is not born, it is created from small things." - Kennex (Me)
+
+🙌 "Loyalty, honesty, discipline, and being grateful are essential values." - Kennex (Me)
+
+🥳 "Not going to be the best thing ever, just be myself" - Kennex (Me)
+
+📌 "You don't need to prove anything to anyone. When you are good enough, people will know." - Kennex (Me)
 
 
 Recently updated at 08:06 P.M. on July 12, 2024
