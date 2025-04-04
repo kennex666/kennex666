@@ -1,16 +1,15 @@
 ## Hello there 👋
 
-My name is Bao Duong (a.k.a. Kennex). 
+My name is Bao Duong — you can also call me Jasper Kennex.
 
-I'm a Software Engineer, from Vietnam 🇻🇳. I love sharing my knowledge and making meaningful contributions. My main focus is Android development, and I am constantly learning new things. 
+I'm a Software Engineer based in Vietnam 🇻🇳. I’m passionate about sharing knowledge and making meaningful contributions to the tech community. While my main area of expertise is Android development, I enjoy designing Web UI/UX out of personal interest.
 
-In my opinion, loyalty, honesty, discipline, and being grateful are essential values.
+In my opinion, loyalty, honesty, discipline, and gratitude are core values that guide both my personal and professional life.
 
-## More information 
+## More information
 
-💬 Contact me via <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a>
-
-My profile on Google Developers: <a href="https://g.dev/Kennex666">Visit me</a>
+💬 Contact me at <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a>  
+Check out my profile on Google Developers: <a href="https://g.dev/Kennex666">Visit me</a>
 
 <div align="left">
 <a href="https://twitter.com/Kennex666" target="_blank">
@@ -47,7 +46,7 @@ My profile on Google Developers: <a href="https://g.dev/Kennex666">Visit me</a>
 📌 "You don't need to prove anything to anyone. When you are good enough, people will know." - Kennex (Me)
 
 
-Recently updated at 08:06 P.M. on July 12, 2024
+Recently updated at 10:50 P.M. on April 04, 2025
 
 
 <div align="left">
