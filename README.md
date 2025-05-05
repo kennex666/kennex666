@@ -35,15 +35,20 @@ Check out my profile on Google Developers: <a href="https://g.dev/Kennex666">Vis
 
 ## My Favorite Quotes
 
+🌸 "An MVP that can’t ship an MVP ain’t no MVP" - Kennex (me)
+
+🐳 "The most valuable player is the one who never forgets their minimum viable purpose" - Kennex (me)
+
 ♟️ "Move in silence, only speak when it's time to say checkmate." - Unknown
 
-🍀 "Luck is not born, it is created from small things." - Kennex (Me)
+🍀 "Luck is not born, it is created from small things." - Kennex (me)
 
-🙌 "Loyalty, honesty, discipline, and being grateful are essential values." - Kennex (Me)
+🙌 "Loyalty, honesty, discipline, and being grateful are essential values." - Kennex (me)
 
-🥳 "Not going to be the best thing ever, just be myself" - Kennex (Me)
+🥳 "Not going to be the best thing ever, just be myself" - Kennex (me)
 
-📌 "You don't need to prove anything to anyone. When you are good enough, people will know." - Kennex (Me)
+📌 "You don't need to prove anything to anyone. When you are good enough, people will know." - Kennex (me)
+
 
 
 Recently updated at 10:50 P.M. on April 04, 2025
