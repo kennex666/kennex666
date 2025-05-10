@@ -1,4 +1,4 @@
-## Hello there 👋
+## Xin chào ヾ(＾∇＾)✨
 
 My name is Bao Duong — but you can also call me Jasper Kennex.
 
