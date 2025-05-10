@@ -1,10 +1,12 @@
 ## Hello there 👋
 
-My name is Bao Duong — you can also call me Jasper Kennex.
+My name is Bao Duong — but you can also call me Jasper Kennex.
 
-I'm a Software Engineer based in Vietnam 🇻🇳. I’m passionate about sharing knowledge and making meaningful contributions to the tech community. While my main area of expertise is Android development, I enjoy designing Web UI/UX out of personal interest.
+I’m a Software Engineer based in Vietnam 🇻🇳, passionate about sharing knowledge and making meaningful contributions to the tech community. While my main expertise is Android development, I also enjoy designing web UI/UX as a personal interest.
 
-In my opinion, loyalty, honesty, discipline, and gratitude are core values that guide both my personal and professional life.
+I go by Jasper Kennex — or simply jsKennex, jKennex — a name that reflects my passion for both JavaScript (js) and Java (j). Fun fact: 'Jasper' actually shares a similar meaning with 'Bảo', my Vietnamese name.
+
+For me, loyalty, honesty, discipline, and gratitude are the core values that guide both my personal and professional life.
 
 ## More information
 
@@ -49,10 +51,18 @@ Check out my profile on Google Developers: <a href="https://g.dev/Kennex666">Vis
 
 📌 "You don't need to prove anything to anyone. When you are good enough, people will know." - Kennex (me)
 
+## My Official Domains
 
+To avoid misunderstandings, fraud, or deceptive activities, I hereby formally declare that the following domains are exclusively owned and operated by me:
+- [dtbao.io.vn](https://dtbao.io.vn/) / [*.dtbao.io.vn](https://dtbao.io.vn/) 
+- [pj.io.vn](https://pj.io.vn/) / [*.pj.io.vn](https://dtbao.io.vn/)
+
+> [!IMPORTANT]
+> I exclusively send and receive emails via <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a> (domain: dtbao.io.vn).
+> I disclaim any responsibility for emails sent from any other domains listed above, **except those sent from dtbao.io.vn, which are official and authorized.**
+> Emails from any other domain should be considered **unauthorized** and not personally issued by me.
 
 Recently updated at 04:30 A.M. on May 06, 2025
-
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Kennex666&&style=flat-square" align="center" /> 
