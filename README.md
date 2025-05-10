@@ -1,4 +1,4 @@
-## Xin chào ヾ(＾∇＾)✨
+## 👋 Xin chào ヾ(＾∇＾)✨
 
 My name is Bao Duong — but you can also call me Jasper Kennex.
 
@@ -64,11 +64,10 @@ To avoid misunderstandings, fraud, or deceptive activities, I hereby formally de
 
 Recently updated at 02:30 A.M. on May 10, 2025
 
+
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Kennex666&&style=flat-square" align="center" /> 
   <a href="https://paypal.me/Kennex666" target="_blank" style="display: inline-block;">
   <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center" />
   </a>
 </div>  
-<br/>  
-
