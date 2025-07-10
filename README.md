@@ -10,7 +10,10 @@ For me, loyalty, honesty, discipline, and gratitude are the core values that gui
 
 ## More information
 
-💬 Contact me at <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a>  
+💬 Contact me at <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a> 
+
+My portfolio: <a href="https://dtbao.io.vn/">2D Version</a> | <a href="https://3d.dtbao.io.vn/">3D Version</a>
+
 Check out my profile on Google Developers: <a href="https://g.dev/Kennex666">Visit me</a>
 
 <div align="left">
