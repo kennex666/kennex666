@@ -8,7 +8,7 @@ I go by Jasper Kennex — or simply jsKennex, jKennex — a name that reflects m
 
 For me, loyalty, honesty, discipline, and gratitude are the core values that guide both my personal and professional life.
 
-## More information
+## Connect
 
 💬 Contact me at <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a> 
 
