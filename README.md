@@ -65,8 +65,15 @@ To avoid misunderstandings, fraud, or deceptive activities, I hereby formally de
 > I disclaim any responsibility for emails sent from any other domains listed above, **except those sent from dtbao.io.vn, which are official and authorized.**
 > Emails from any other domain should be considered **unauthorized** and not personally issued by me.
 
-Recently updated at 02:30 A.M. on May 10, 2025
+##  Personal Branding  
 
+I maintain a **consistent personal branding system** across all official channels and assets.  
+All information, identity elements, and updates related to the **Kennex** brand are publicly managed at:  
+👉 [github.com/kennex666/personal-branding](https://github.com/kennex666/personal-branding)  
+
+My goal is to build a **professional, transparent, and trustworthy profile** that accurately reflects my values and long-term vision.  
+
+Recently updated at 05:50 P.M. on November 11, 2025
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Kennex666&&style=flat-square" align="center" /> 
