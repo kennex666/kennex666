@@ -1,12 +1,29 @@
 ## 👋 Xin chào ヾ(＾∇＾)✨
 
-My name is Bao Duong — but you can also call me Jasper Kennex.
+I'm Bao Duong (aka Jasper Kennex). I'm a Software Engineer from Vietnam 🇻🇳 - passionate about building digital experiences that blend solid engineering with thoughtful design.
 
-I’m a Software Engineer based in Vietnam 🇻🇳, passionate about sharing knowledge and making meaningful contributions to the tech community. While my main expertise is Android development, I also enjoy designing web UI/UX as a personal interest.
+Main focus: **Android Development**, but I also love exploring **Web UI/UX** and creative front-end technologies.
 
-I go by Jasper Kennex — or simply jsKennex, jKennex — a name that reflects my passion for both JavaScript (js) and Java (j). Fun fact: 'Jasper' actually shares a similar meaning with 'Bảo', my Vietnamese name.
+Fun fact: *'Jasper' shares the same meaning as my Vietnamese name 'Bảo' - both mean 'precious' or 'valuable'.* ✨
 
-For me, loyalty, honesty, discipline, and gratitude are the core values that guide both my personal and professional life.
+##  Personal Branding  
+
+I maintain a **consistent personal branding system** across all official channels and assets.  
+All information, identity elements, and updates related to the **Kennex** brand are publicly managed at:  
+👉 [github.com/kennex666/personal-branding](https://github.com/kennex666/personal-branding)  
+
+My goal is to build a **professional, transparent, and trustworthy profile** that accurately reflects my values and long-term vision.  
+
+## My Official Domains
+
+To avoid misunderstandings, fraud, or deceptive activities, I hereby formally declare that the following domains are exclusively owned and operated by me:
+- [dtbao.io.vn](https://dtbao.io.vn/) / [*.dtbao.io.vn](https://dtbao.io.vn/) 
+- [pj.io.vn](https://pj.io.vn/) / [*.pj.io.vn](https://dtbao.io.vn/)
+
+> [!IMPORTANT]
+> I exclusively send and receive emails via <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a> (domain: dtbao.io.vn).
+> I disclaim any responsibility for emails sent from any other domains listed above, **except those sent from dtbao.io.vn, which are official and authorized.**
+> Emails from any other domain should be considered **unauthorized** and not personally issued by me.
 
 ## Connect
 
@@ -37,41 +54,6 @@ Check out my profile on Google Developers: <a href="https://g.dev/Kennex666">Vis
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Kennex666&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
-
-## My Favorite Quotes
-
-🌸 "An MVP that can’t ship an MVP ain’t no MVP" - Kennex (me)
-
-🐳 "The most valuable player is the one who never forgets their minimum viable purpose" - Kennex (me)
-
-♟️ "Move in silence, only speak when it's time to say checkmate." - Unknown
-
-🍀 "Luck is not born, it is created from small things." - Kennex (me)
-
-🙌 "Loyalty, honesty, discipline, and being grateful are essential values." - Kennex (me)
-
-🥳 "Not going to be the best thing ever, just be myself" - Kennex (me)
-
-📌 "You don't need to prove anything to anyone. When you are good enough, people will know." - Kennex (me)
-
-## My Official Domains
-
-To avoid misunderstandings, fraud, or deceptive activities, I hereby formally declare that the following domains are exclusively owned and operated by me:
-- [dtbao.io.vn](https://dtbao.io.vn/) / [*.dtbao.io.vn](https://dtbao.io.vn/) 
-- [pj.io.vn](https://pj.io.vn/) / [*.pj.io.vn](https://dtbao.io.vn/)
-
-> [!IMPORTANT]
-> I exclusively send and receive emails via <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a> (domain: dtbao.io.vn).
-> I disclaim any responsibility for emails sent from any other domains listed above, **except those sent from dtbao.io.vn, which are official and authorized.**
-> Emails from any other domain should be considered **unauthorized** and not personally issued by me.
-
-##  Personal Branding  
-
-I maintain a **consistent personal branding system** across all official channels and assets.  
-All information, identity elements, and updates related to the **Kennex** brand are publicly managed at:  
-👉 [github.com/kennex666/personal-branding](https://github.com/kennex666/personal-branding)  
-
-My goal is to build a **professional, transparent, and trustworthy profile** that accurately reflects my values and long-term vision.  
 
 Recently updated at 05:50 P.M. on November 11, 2025
 
