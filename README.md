@@ -6,25 +6,6 @@ Main focus: **Android Development**, but I also love exploring **Web UI/UX** and
 
 Fun fact: *'Jasper' shares the same meaning as my Vietnamese name 'Bảo' - both mean 'precious' or 'valuable'.* ✨
 
-##  Personal Branding  
-
-I maintain a **consistent personal branding system** across all official channels and assets.  
-All information, identity elements, and updates related to the **Kennex** brand are publicly managed at:  
-👉 [github.com/kennex666/personal-branding](https://github.com/kennex666/personal-branding)  
-
-My goal is to build a **professional, transparent, and trustworthy profile** that accurately reflects my values and long-term vision.  
-
-## My Official Domains
-
-To avoid misunderstandings, fraud, or deceptive activities, I hereby formally declare that the following domains are exclusively owned and operated by me:
-- [dtbao.io.vn](https://dtbao.io.vn/) / [*.dtbao.io.vn](https://dtbao.io.vn/) 
-- [pj.io.vn](https://pj.io.vn/) / [*.pj.io.vn](https://dtbao.io.vn/)
-
-> [!IMPORTANT]
-> I exclusively send and receive emails via <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a> (domain: dtbao.io.vn).
-> I disclaim any responsibility for emails sent from any other domains listed above, **except those sent from dtbao.io.vn, which are official and authorized.**
-> Emails from any other domain should be considered **unauthorized** and not personally issued by me.
-
 ## Connect
 
 💬 Contact me at <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a> 
@@ -49,11 +30,29 @@ Check out my profile on Google Developers: <a href="https://g.dev/Kennex666">Vis
 </div>
 <br/>  
 
-
 ## GitHub Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Kennex666&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
+
+##  Personal Branding  
+
+I maintain a **consistent personal branding system** across all official channels and assets.  
+All information, identity elements, and updates related to the **Kennex** brand are publicly managed at:  
+👉 [github.com/kennex666/personal-branding](https://github.com/kennex666/personal-branding)  
+
+My goal is to build a **professional, transparent, and trustworthy profile** that accurately reflects my values and long-term vision.  
+
+## My Official Domains
+
+To avoid misunderstandings, fraud, or deceptive activities, I hereby formally declare that the following domains are exclusively owned and operated by me:
+- [dtbao.io.vn](https://dtbao.io.vn/) / [*.dtbao.io.vn](https://dtbao.io.vn/) 
+- [pj.io.vn](https://pj.io.vn/) / [*.pj.io.vn](https://dtbao.io.vn/)
+
+> [!IMPORTANT]
+> I exclusively send and receive emails via <a href="mailto:me@dtbao.io.vn">me@dtbao.io.vn</a> (domain: dtbao.io.vn).
+> I disclaim any responsibility for emails sent from any other domains listed above, **except those sent from dtbao.io.vn, which are official and authorized.**
+> Emails from any other domain should be considered **unauthorized** and not personally issued by me.
 
 Recently updated at 05:50 P.M. on November 11, 2025
 
