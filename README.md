@@ -15,9 +15,6 @@ My portfolio: <a href="https://dtbao.io.vn/?s=github-main-readme">2D Version</a>
 Check out my profile on Google Developers: <a href="https://g.dev/Kennex666">Visit me</a>
 
 <div align="left">
-<a href="https://twitter.com/Kennex666" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/Kennex666" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
