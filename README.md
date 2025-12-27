@@ -31,9 +31,11 @@ Check out my profile on Google Developers: <a href="https://g.dev/Kennex666">Vis
 <br/>  
 
 ## GitHub Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Kennex666&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!-- <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Kennex666&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/> 
+<br/>  -->
+
+GitHub Stats is currently unavailable. Apologize for the inconvenience.
 
 ##  Personal Branding  
 
